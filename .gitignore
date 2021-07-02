@@ -130,3 +130,7 @@ dmypy.json
 
 # Directories
 Dane
+
+# Files
+Conn.json
+*.xlsx
